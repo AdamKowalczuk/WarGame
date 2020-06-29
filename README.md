@@ -1,0 +1,1 @@
+The game resembles the popular game of "War" .Players receive random cards and the one whose attack strength is greater wins. At the time of scoring 10 points the player is informed about the result of the game.
